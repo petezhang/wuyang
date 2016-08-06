@@ -1,5 +1,5 @@
 /*team.html  */
-.team-container{min-height: 850px;}
+.team-container{min-height: 850px; width: 1170px;}
 .team-conatiner:after{display:block; content:"clear"; height:0; clear:both; overflow:hidden; visibility:hidden;}
 .left-container{float: left; width: 200px; }
 .left-container ul{border: 1px solid #09f; border-radius: 6px; overflow: hidden;}
