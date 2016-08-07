@@ -1426,7 +1426,7 @@ span.menu:before {
 	cursor: pointer;
 }
 .top-nav {
-	width: 30%;
+	width: 50px;
 	float: right;
 }
 .top-nav  ul{
